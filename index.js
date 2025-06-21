@@ -43,7 +43,7 @@ timeline.to(".box2",{
     duration:1
 })
 timeline.to(".box3",{
-     x:600,
-    backgroundColor:"yellow",
+     x:500,
+    backgroundColor:"magenta",
     duration:2 
 })
